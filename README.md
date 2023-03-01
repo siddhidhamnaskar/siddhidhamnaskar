@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Siddhi Dhamnaskar</h1>
 <h3 align="center">Aspiring Full Stack Web Developer</h3>
 
-<img align="right" width="400" src="https://media.tenor.com/2fXbn6Xtt0UAAAAM/software-software-development.gif">
+<img align="right" width="400" src="https://cdn.dribbble.com/users/3853792/screenshots/13895772/media/adafde56c266d90cfb7f26f328f18b6b.png?compress=1&resize=400x300">
 
 - 🌱 I’m currently learning **Web Development**
 
