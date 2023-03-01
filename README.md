@@ -1,12 +1,10 @@
 
-# Hi, I'm Abhishek Khanna 😎
+# Hi, I'm Siddhi Dhamnaskar 😎
 Aspiring Full-stack Web Developer at Masai School
-Software professional with expertise in MERN technology, HTML, CSS, JavaScript, and experienced in solving more than 400+ Dsa problems. Looking forward to being a part of an organization that allows constant learning and development of my technical and management skills. Experienced in working on various projects through remote collaboration & willing to explore my skills.
-My Motivation
-I am very motivated and passionate towards my work and projects because i want to build one Battery Charging App which excites me more to do in future
+Analytical and detail-oriented aspiring Full Stack Developer. Capable of writing production-ready code using ReactJS, Redux, and CSS on the frontend, NodeJS and Express on the backend to build single page applications.Passionate about coding and strongly interested to working in IT based company.
 
 
-Abhishek
+Siddhi Dhamnaskar
 
 
 # About Me
