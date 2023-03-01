@@ -2,9 +2,7 @@
 <h1 align="center">Hi 👋, I'm Siddhi Dhamnaskar</h1>
 <h3 align="center">Aspiring Full Stack Web Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=siddhidhamnaskar&label=Profile%20views&color=0e75b6&style=flat" alt="siddhidhamnaskar" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=siddhidhamnaskar" alt="siddhidhamnaskar" /></a> </p>
+<img align="center" width="400" src="image.png">
 
 - 🌱 I’m currently learning **Web Development**
 
