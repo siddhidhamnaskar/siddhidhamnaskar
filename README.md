@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Siddhi Dhamnaskar</h1>
 <h3 align="center">Aspiring Full Stack Web Developer</h3>
 
-<img align="center" width="400" src="https://camo.githubusercontent.com/4aa77ea32aa4d7be626e833b160f3d8923c133cd32c34fefbdc43c8abfcff710/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323730343431342f73637265656e73686f74732f373436363930332f6d656469612f62303861623537363331366264343538326665663138396634373163643965352e676966">
+<img align="right" width="400" src="https://media.tenor.com/2fXbn6Xtt0UAAAAM/software-software-development.gif">
 
 - 🌱 I’m currently learning **Web Development**
 
