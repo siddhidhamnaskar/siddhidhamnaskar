@@ -1,6 +1,7 @@
 
+<img width="1000" height="300" src="https://miro.medium.com/max/1200/0*M4bxiCIjcTK-2Xr6.jpeg">
 <h1 align="center">Hi 👋, I'm Siddhi Dhamnaskar</h1>
-<h3 align="center">Aspiring Full Stack Web Developer</h3>
+<h3 align="center">An aspiring Full Stack Web Developer with hands on experience in MERN stack projects and ability to work in team . Always ready to learn and implement new technology</h3>
 
 <img align="right" width="400" src="https://cdn.dribbble.com/users/3853792/screenshots/13895772/media/adafde56c266d90cfb7f26f328f18b6b.png?compress=1&resize=400x300">
 
