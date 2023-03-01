@@ -1,6 +1,30 @@
-# 💫 About Me:
-Analytical and detail-oriented aspiring Full Stack Developer.<br>Capable of writing production-ready code using ReactJS, Redux, and CSS<br>on the frontend, NodeJS and Express on the backend to build single page<br>applications. Passionate about coding and strongly interested in working in<br>IT based company.
 
+# Hi, I'm Abhishek Khanna 😎
+Aspiring Full-stack Web Developer at Masai School
+Software professional with expertise in MERN technology, HTML, CSS, JavaScript, and experienced in solving more than 400+ Dsa problems. Looking forward to being a part of an organization that allows constant learning and development of my technical and management skills. Experienced in working on various projects through remote collaboration & willing to explore my skills.
+My Motivation
+I am very motivated and passionate towards my work and projects because i want to build one Battery Charging App which excites me more to do in future
+
+
+Abhishek
+
+
+# About Me
+👨‍💻 I’m currently learning MERN STACK WEB DEVELOPER
+🌱 My Projects
+
+[![Zoom Car pro](zoomcar-clones.netlify.com)
+Book My Show
+BewKoof Project
+👨‍💻 Individual Project Have'nt done any yet
+
+👨‍💻 I’m currently learning MERN STACK WEB DEVELOPER
+
+❓ How to reach me siddhidhamnaskar64@gmail.com
+
+💼 My Portfolio https://siddhidhamnaskarportfolio.netlify.app/
+
+📄 Resume: Resume
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siddhi-dhamnaskar-43a64723b/) 
