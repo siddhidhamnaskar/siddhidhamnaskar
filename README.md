@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **siddhidhamnaskar64@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1ftv39LeqZwGB-Ee6f5ZGs6JJjz7ZuNmx/view?usp=sharing](Resume)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1ftv39LeqZwGB-Ee6f5ZGs6JJjz7ZuNmx/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
