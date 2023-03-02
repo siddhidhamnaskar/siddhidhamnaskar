@@ -5,13 +5,15 @@
 
 <img align="right" width="400" src="https://cdn.dribbble.com/users/3853792/screenshots/13895772/media/adafde56c266d90cfb7f26f328f18b6b.png?compress=1&resize=400x300">
 
-- 🌱 I’m currently learning **Web Development**
+- 🌱 I’m currently learning **Backend**
+
+- 💬 Ask me about React, Javascript , Java
 
 - 👨‍💻 All of my projects are available at [siddhidhamnaskarportfolio.netlify.com](siddhidhamnaskarportfolio.netlify.com)
 
 - 📫 How to reach me **siddhidhamnaskar64@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1ftv39LeqZwGB-Ee6f5ZGs6JJjz7ZuNmx/view?usp=sharing](https://drive.google.com/file/d/1ftv39LeqZwGB-Ee6f5ZGs6JJjz7ZuNmx/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1ftv39LeqZwGB-Ee6f5ZGs6JJjz7ZuNmx/view?usp=sharing](Resume)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
