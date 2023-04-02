@@ -12,7 +12,7 @@
 
 - 💬 Ask me about React, Javascript , Java
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://siddhidhamnaskarportfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://siddhi-portfolio.netlify.app/)
 
 - 📫 How to reach me **siddhidhamnaskar64@gmail.com**
 
