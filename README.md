@@ -15,7 +15,7 @@ I'm Siddhi, a passionate Full Stack Developer skilled in building scalable, real
 
 - 🔭 I’m currently working as an INDEPENDENT COLLABORATOR at **DiGiLABS-Alphahood-Technologies Pvt. Ltd.**
 - 💬 Ask me about React, JavaScript, Node.js, MongoDB
-- 👨‍💻 All of my projects are available at: [Portfolio](https://siddhi-portfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at: [Portfolio](https://siddhi-new-portfolio.vercel.app/)
 - 📫 Reach me at: siddhidhamnaskar64@gmail.com
 - 📄 [View My Resume](https://drive.google.com/file/d/1ftv39LeqZwGB-Ee6f5ZGs6JJjz7ZuNmx/view?usp=sharing)
 
