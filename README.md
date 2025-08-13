@@ -1,57 +1,72 @@
 <p align="center">
   <img width="1000" height="300" src="https://miro.medium.com/max/1200/0*M4bxiCIjcTK-2Xr6.jpeg">
 </p>
+# Hi there, I'm Siddhi Dhamnaskar 👋
 
-<h1 align="center">Hi 👋, I'm Siddhi Dhamnaskar</h1>
-
-<p align="center">🌟 Full Stack Developer | React.js | Node.js | MongoDB | IoT | MERN Stack</p>
-<p align="center">📍 Based in Ratnagiri, Maharashtra | Open to Remote Work Opportunities</p>
-
----
-
-### 💡 About Me
-
-I'm Siddhi, a passionate Full Stack Developer skilled in building scalable, real-time web applications using the MERN stack. Currently working remotely on IoT-based dashboards and full-stack projects using React, Node.js, and MongoDB.
-
-- 🔭 I’m currently working as an INDEPENDENT COLLABORATOR at **DiGiLABS-Alphahood-Technologies Pvt. Ltd.**
-- 💬 Ask me about React, JavaScript, Node.js, MongoDB
-- 👨‍💻 All of my projects are available at: [Portfolio](https://siddhi-dhamnaskar.vercel.app//)
-- 📫 Reach me at: siddhidhamnaskar64@gmail.com
-- 📄 [View My Resume](https://drive.google.com/file/d/1ftv39LeqZwGB-Ee6f5ZGs6JJjz7ZuNmx/view?usp=sharing)
+🚀 **Full Stack Developer | JavaScript | Node.js | React.js**  
+📍 Ratnagiri, Maharashtra | 🌎 Open to Remote Opportunities  
+💼 [Portfolio](https://siddhi-dhamnaskar.vercel.app/) | [LinkedIn](https://www.linkedin.com/in/siddhi-dhamnaskar) | [GitHub](https://github.com/siddhidhamnaskar)  
 
 ---
 
-### 💼 GitHub Highlights
+## 💡 About Me
+I’m a **Full Stack Developer** with 2+ years of experience building secure, scalable, and real-time web applications.  
+From **IoT dashboards** to **inventory management systems**, I love crafting clean, modular code that just *works*.
 
-- 🔭 10+ Projects built using MERN stack
-- 📊 Real-time dashboards using MQTT + React
-- 🧠 Committed to continuous learning and consistency
-- 🚀 All key projects deployed with proper README and demo links
-
----
-
-### 🛠️ Tech Stack
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
-</p>
+- 💻 Proficient in **JavaScript**, **TypeScript**, **React.js**, and **Node.js**
+- 📡 Experienced in integrating **IoT hardware** with **WebSocket** and **MQTT**
+- 🛠 Advocate for **Clean Architecture** and reusable code
+- 🤝 Thrive in **Agile team environments** with collaborative code reviews
+- 🔍 Passionate about **AI-driven** and **real-time platforms**
 
 ---
 
-### 🌐 Connect With Me
+## 🛠 Tech Stack
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/siddhi-dhamnaskar/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="siddhi dhamnaskar" height="30" width="40" />
-  </a>
-</p>
+**Frontend:**  
+React.js • JavaScript (ES6+) • TypeScript • HTML5 • CSS3 • Tailwind CSS  
+
+**Backend:**  
+Node.js • Express.js • REST APIs • WebSocket • JWT  
+
+**Tools & Platforms:**  
+Git • GitHub • Postman • Firebase • Netlify • Vercel  
+
+**Development Practices:**  
+Scalable Architecture • Modular Code • Clean Architecture • Unit Testing • Debugging  
+
+---
+
+## 📌 Featured Projects
+
+### 📊 IoT Device Monitoring Dashboard
+**MQTT / WebSocket / ESP32 / Vercel / Render**  
+A real-time dashboard for monitoring IoT devices with live temperature & humidity charts, improving QA speed by 30%.  
+[🔗 Live Demo](http://snackboss-iot.in:2000/)  
+
+### 📦 Inventory Management System
+**React.js / Node.js / Express / MongoDB / JWT**  
+Full-stack platform for inventory management with login, CRUD, real-time search, and PDF report generation.  
+
+---
+
+## 🏆 Key Achievements
+- Built and deployed **real-time IoT dashboards** improving testing accuracy by **30%**  
+- Developed **modular TypeScript codebases** for maintainable and scalable apps  
+- Enhanced platform performance with a **20% reduction in load times**  
+- Implemented **JWT-based authentication** for secure access control  
+
+---
+
+## 📫 Let’s Connect
+- 📧 **Email:** siddhidhamnaskar64@gmail.com  
+- 💼 **LinkedIn:** [linkedin.com/in/siddhi-dhamnaskar](https://www.linkedin.com/in/siddhi-dhamnaskar)  
+- 🌐 **Portfolio:** [siddhi-portfolio.netlify.app](https://siddhi-portfolio.netlify.app/)  
+
+---
+⭐️ _"Code is like humor. When you have to explain it, it’s bad."_  
+
+
 
 ---
 
