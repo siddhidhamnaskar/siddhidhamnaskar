@@ -29,6 +29,26 @@ From **IoT dashboards** to **inventory management systems**, I love crafting cle
     <td><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /></td>
     <td><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /></td>
     <td><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" /></td>
+    <!-- Node.js -->
+<td><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /></td>
+
+<!-- MongoDB -->
+<td><img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" /></td>
+
+<!-- MySQL -->
+<td><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /></td>
+
+<!-- Express.js -->
+<td><img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" /></td>
+
+<!-- Git -->
+<td><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /></td>
+
+<!-- GitHub -->
+<td><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></td>
+
+<!-- Postman -->
+<td><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" /></td>
     <!-- Add more badges as needed -->
   </tr>
 </table>
@@ -38,16 +58,17 @@ From **IoT dashboards** to **inventory management systems**, I love crafting cle
 ## 📌 Featured Projects
 
 ### 📊 IoT Device Monitoring Dashboard
-**MQTT / WebSocket / ESP32 / Vercel / Render**  
+**React.Js / Node.Js / MySQL / MQTT / WebSocket / ESP32 / Vercel / Render**  
 A real-time dashboard for monitoring IoT devices with live temperature & humidity charts, improving QA speed by 30%.  
 [🔗 Live Demo](https://device-testing-dashboard.vercel.app/)  
 [🔗 Github](https://github.com/siddhidhamnaskar/DeviceTestingDashboard)  
 
 ### 📦 Elder Care Management System
-**React.js / Node.js / Express / MongoDB / JWT**  
-A full-stack real-time dashboard built to monitor elderly care IoT devices using MQTT, Express.js, and React.js. This application helps visualize sensor data from multiple devices to track health conditions, status, and alerts efficiently.
-[🔗 Live Demo](https://elder-care-dashboard.vercel.app/) 
-[🔗 Github](https://github.com/siddhidhamnaskar/ElderCareDashboard) 
+**React.Js / Node.Js / MySQL / MQTT / WebSocket / ESP32 / Vercel / Render**  
+A full-stack real-time dashboard built to monitor elderly care IOT devices using MQTT,Express.Js & React.Js. This application helps visualize sensor data from multiple devices to track health conditions, status & alerts efficiently.
+[🔗 Live Demo](https://elder-care-dashboard.vercel.app/)  
+[🔗 Github](https://github.com/siddhidhamnaskar/ElderCareDashboard)  
+
 ---
 
 ## 🏆 Key Achievements
