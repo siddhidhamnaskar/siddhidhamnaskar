@@ -30,6 +30,7 @@ From **IoT dashboards** to **inventory management systems**, I love crafting cle
     <td><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /></td>
     <td><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" /></td>
     <td><img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" /></td>
+    <td><img src="https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" /></td>
   </tr>
   <tr>
          <!-- Node.js -->
@@ -43,9 +44,17 @@ From **IoT dashboards** to **inventory management systems**, I love crafting cle
 
 <!-- Express.js -->
 <td><img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" /></td>
+
+<td><img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" /></td>
+
   </tr>
   <tr>
-    
+<td><img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" /></td>
+
+<td><img src="https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white" /></td>
+
+<td><img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" /></td>
+
 <!-- Git -->
 <td><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /></td>
 
@@ -54,6 +63,11 @@ From **IoT dashboards** to **inventory management systems**, I love crafting cle
 
 <!-- Postman -->
 <td><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" /></td>
+
+<td><img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" /></td>
+
+<td><img src="https://img.shields.io/badge/Railway-000000?style=for-the-badge&logo=railway&logoColor=white" /></td>
+
     <!-- Add more badges as needed -->
   </tr>
 
