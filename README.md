@@ -67,8 +67,8 @@ From **IoT dashboards** to **inventory management systems**, I love crafting cle
 ### 📊 IoT Device Monitoring Dashboard
 **React.Js / Node.Js / MySQL / MQTT / WebSocket / ESP32 / Vercel / Render**  
 A real-time dashboard for monitoring IoT devices with live temperature & humidity charts, improving QA speed by 30%.  
-[🔗 Live Demo](https://device-testing-dashboard.vercel.app/)  
-[🔗 Github](https://github.com/siddhidhamnaskar/DeviceTestingDashboard)  
+[🔗 Live Demo](https://device-testing-dashboard.vercel.app/) 
+[![Watch the video](https://res.cloudinary.com/dguer2ngx/image/upload/v1763664769/Images/20.11.2025_23.01.49_REC_flrhf4.png)](https://res.cloudinary.com/dguer2ngx/video/upload/v1763653929/Videos/20.11.2025_21.13.24_REC_w4jsia.mp4)
 
 ### 📦 Elder Care Management System
 **React.Js / Node.Js / MySQL / MQTT / WebSocket / ESP32 / Vercel / Render**  
