@@ -65,16 +65,16 @@ From **IoT dashboards** to **inventory management systems**, I love crafting cle
 ## 📌 Featured Projects
 
 ### 📊 IoT Device Monitoring Dashboard
-**React.Js / Node.Js / MySQL / MQTT / WebSocket / ESP32 / Vercel / Render**  
-A real-time dashboard for monitoring IoT devices with live temperature & humidity charts, improving QA speed by 30%.  
-[🔗 Live Demo](https://device-testing-dashboard.vercel.app/) 
+**React, Node.js, MySQL, WebSocket, MQTT, JWT, REST APIs, Git, Dogital Ocean**  
+A full-stack IoT device monitoring dashboard solution built with React, Node.js, and MySQL. Features include user authentication, payment integration, and admin dashboard.  
+[🔗 Live Demo](http://snackboss-iot.in:2000/) 
 [![Watch the video](https://res.cloudinary.com/dguer2ngx/image/upload/v1763664769/Images/20.11.2025_23.01.49_REC_flrhf4.png)](https://res.cloudinary.com/dguer2ngx/video/upload/v1763653929/Videos/20.11.2025_21.13.24_REC_w4jsia.mp4)
 
-### 📦 Elder Care Management System
-**React.Js / Node.Js / MySQL / MQTT / WebSocket / ESP32 / Vercel / Render**  
-A full-stack real-time dashboard built to monitor elderly care IOT devices using MQTT,Express.Js & React.Js. This application helps visualize sensor data from multiple devices to track health conditions, status & alerts efficiently.
-[🔗 Live Demo](https://elder-care-dashboard.vercel.app/)  
-[🔗 Github](https://github.com/siddhidhamnaskar/ElderCareDashboard)  
+### 📦 CareTest
+**Next.js, Typescript, Tailwind Css, MySQL, Prisma, Google Auth, Cloudinary, Git, Digital Ocean**  
+Online testing platform designed to support children with disabilities. The website provides simple, visually clear tests that help kids practice recognition, understanding, and basic cognitive skills.Its clean layout, large buttons, and distraction-free interface make it easy for children to attempt questions independently or with minimal guidance.
+[🔗 Live Demo](http://snackboss-iot.in:3002/)  
+[![Watch the video](https://res.cloudinary.com/dguer2ngx/image/upload/v1763664794/Images/20.11.2025_23.02.09_REC_hxsrf3.png)](https://res.cloudinary.com/dguer2ngx/video/upload/v1763653389/Videos/20.11.2025_20.59.46_REC_c1n1l1.mp4)
 
 ---
 
