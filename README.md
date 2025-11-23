@@ -77,7 +77,10 @@ A full-stack IoT device monitoring dashboard solution built with React, Node.js,
 **Next.js, Typescript, Tailwind Css, MySQL, Prisma, Google Auth, Cloudinary, Git, Digital Ocean**  
 Online testing platform designed to support children with disabilities. The website provides simple, visually clear tests that help kids practice recognition, understanding, and basic cognitive skills.Its clean layout, large buttons, and distraction-free interface make it easy for children to attempt questions independently or with minimal guidance.
 [🔗 Live Demo](http://snackboss-iot.in:3002/)  
-[![Watch the video](https://res.cloudinary.com/dguer2ngx/image/upload/v1763664794/Images/20.11.2025_23.02.09_REC_hxsrf3.png)](https://res.cloudinary.com/dguer2ngx/video/upload/v1763653389/Videos/20.11.2025_20.59.46_REC_c1n1l1.mp4)
+<a href="https://res.cloudinary.com/dguer2ngx/video/upload/v1763653389/Videos/20.11.2025_20.59.46_REC_c1n1l1.mp4">
+  <img src="https://res.cloudinary.com/dguer2ngx/image/upload/v1763664794/Images/20.11.2025_23.02.09_REC_hxsrf3.png" width="300" />
+</a>
+
 
 ---
 
