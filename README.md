@@ -68,7 +68,10 @@ From **IoT dashboards** to **inventory management systems**, I love crafting cle
 **React, Node.js, MySQL, WebSocket, MQTT, JWT, REST APIs, Git, Dogital Ocean**  
 A full-stack IoT device monitoring dashboard solution built with React, Node.js, and MySQL. Features include user authentication, payment integration, and admin dashboard.  
 [🔗 Live Demo](http://snackboss-iot.in:2000/) 
-[![Watch the video](https://res.cloudinary.com/dguer2ngx/image/upload/v1763664769/Images/20.11.2025_23.01.49_REC_flrhf4.png)](https://res.cloudinary.com/dguer2ngx/video/upload/v1763653929/Videos/20.11.2025_21.13.24_REC_w4jsia.mp4)
+<a href="https://res.cloudinary.com/dguer2ngx/video/upload/v1763653929/Videos/20.11.2025_21.13.24_REC_w4jsia.mp4">
+  <img src="https://res.cloudinary.com/dguer2ngx/image/upload/v1763664769/Images/20.11.2025_23.01.49_REC_flrhf4.png" width="300" />
+</a>
+
 
 ### 📦 CareTest
 **Next.js, Typescript, Tailwind Css, MySQL, Prisma, Google Auth, Cloudinary, Git, Digital Ocean**  
